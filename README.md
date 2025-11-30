@@ -25,9 +25,6 @@ CSS-Grid-Exercise/
     ├── 2.jpg
     ├── ...
     └── 11.jpg
-```
-   ```
-2. Abre `index.html` en tu navegador.
 
 ## Créditos
 Imágenes: colección privada (no incluidas para redistribución).
